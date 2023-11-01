@@ -222,4 +222,4 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/Ragu-123/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113915622/12edee7e-5334-4fcd-9f6c-d4b30a91a6d5)
 
 ### RESULT:
-Thus,Implementation of Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.
+Thus,Implementation of AlphaBetaPruned Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.
