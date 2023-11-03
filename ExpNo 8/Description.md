@@ -147,8 +147,7 @@ while(player):
 ![image](https://github.com/Ragu-123/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113915622/a3d71038-005c-499e-a401-6434baddb53a)
 
 ## RESULT:
-![image](https://github.com/Ragu-123/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113915622/515751a8-6155-4eb8-b18d-b6c45ad36178)
-
+Thus a Cryptarithmetic Problem was solved using Python successfully
 
 
 
